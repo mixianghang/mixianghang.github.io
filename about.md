@@ -22,15 +22,21 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 
 ### Publications
 
+* **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
+   **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
+   In Proceeding of ACM IMC 2017, London, UK.   
+   [**Paper**](pubs/imc17_ifttt.pdf)
+
 * **NDSS’18**, <span class = "paperTitle">Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations</span> 
    Peng Wang, **Xianghang Mi**, Xiaojing Liao, XiaoFeng Wang, Kan Yuan, Feng Qian, and Raheem Beyah.  
    In Proceeding of NDSS 2018, San Diego, CA.   
    [**Paper**](pubs/ndss18_missuggestion.pdf) 
 
-* **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
-   **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
-   In Proceeding of ACM IMC 2017, London, UK.   
-   [**Paper**](pubs/imc17_ifttt.pdf)
+* **CoNEXT'16**, <span class = "paperTitle">SMig: Stream Migration Extension For HTTP/2</span>,   
+   **Xianghang Mi**, Feng Qian, and XiaoFeng Wang  
+   In Proceedings of ACM CoNEXT 2016, Irvine, CA.   
+   [**Paper**](pubs/conext16_http2.pdf)
+
 
 * **Security'17**, <span class = "paperTitle">Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</span>   
    Xiaolong Bai, Zhe Zhou, XiaoFeng Wang, Zhou Li, **Xianghang Mi**, Nan Zhang, Tongxin Li, S. Hu, Kehuan, Zhang  
@@ -47,10 +53,6 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
    [**Paper**](arxiv17_iot_sok.pdf)
 
 
-* **CoNEXT'16**, <span class = "paperTitle">SMig: Stream Migration Extension For HTTP/2</span>,   
-   **Xianghang Mi**, Feng Qian, and XiaoFeng Wang  
-   In Proceedings of ACM CoNEXT 2016, Irvine, CA.   
-   [**Paper**](pubs/conext16_http2.pdf)
 
 * **Machinery & Electronics'13**, <span class = "paperTitle">Design of Control System based on Android For the Indoor Height Space Items Storage and Intelligent Management System</span>  
    TianQi Wei, Qingsheng Luo,Yong Wang, XiangHang Mi  
