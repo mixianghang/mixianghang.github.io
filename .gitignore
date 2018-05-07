@@ -1,0 +1,6 @@
+vendor/
+site/
+site_production/
+_config-dev.yml.bak
+Gemfile.lock
+FAQ.md
