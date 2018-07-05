@@ -22,6 +22,11 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 
 ### Publications
 
+* **SP'19**, <span class = "paperTitle">Resident Evil: Understanding Residential IP Proxy as a Dark Service</span>   
+   **Xianghang Mi**, Xuan Feng, Xiaojing Liao, Baojun Liu, Xiaofeng Wang, Feng Qian, Zhou Li, Sumayah Alrwais, Limin Sun, Ying Liu
+   To appear in the IEEE Symposium on Security & Privacy, May 2019.   
+   [**Paper**](/pubs/rpaas.pdf)
+
 * **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
    **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
    In Proceeding of ACM IMC 2017, London, UK.   
