@@ -8,6 +8,7 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 <!-- <span class = "note">Right now, I am looking for a summer internship in 2018.</span>-->
 
 ### <span class = "paperTitle">News</span>
+* **July 2018**: Our paper on voice asistants got accepted by Oakland'19.
 * **July 2018**: Presented our paper on residential IP proxies in Site Integrity team of Facebook.
 * **July 2018**: Our paper on residential IP proxies got accepted by Oakland'19.
 * **May 2018**: I joined **Site Integrity** group in Facebook as an intern for the next three months.
@@ -27,7 +28,7 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 * **S&P'19**, <span class = "paperTitle">Resident Evil: Understanding Residential IP Proxy as a Dark Service</span>   
    **Xianghang Mi**, Xuan Feng, Xiaojing Liao, Baojun Liu, Xiaofeng Wang, Feng Qian, Zhou Li, Sumayah Alrwais, Limin Sun, Ying Liu  
    To appear in the IEEE Symposium on Security & Privacy, May 2019.   
-   [**Paper**](/pubs/rpaas.pdf)
+   [**Paper**](/pubs/rpaas.pdf), [**Blog**](https://medium.com/@xianghangmi/resident-evil-understanding-residential-ip-proxy-as-a-dark-service-dea9010a0e29?source=friends_link&sk=1b84f109431dfd92a0c73ec101b21289)
 
 * **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
    **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
@@ -38,6 +39,11 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
    **Xianghang Mi**, Feng Qian, and XiaoFeng Wang  
    In Proceedings of ACM CoNEXT 2016, Irvine, CA.   
    [**Paper**](/pubs/conext16_http2.pdf)
+
+
+* **S&P'19**, <span class = "paperTitle">Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems</span>   
+   Nan Zhang, **Xianghang Mi**, Xuan Feng, XiaoFeng Wang, Yuan Tian, Feng Qian.   
+   To appear in the IEEE Symposium on Security & Privacy, May 2019.   
 
 
 * **arXiv'18**, <span class = "paperTitle">Understanding and Mitigating the Security Risks of Voice-Controlled Third-Party Skills on Amazon Alexa and Google Home</span>    
