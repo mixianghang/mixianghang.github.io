@@ -18,6 +18,7 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
    Ph.D. Student, Department of Computer Science, School of Informatics & Computing.  
    Advisors: Professor [Feng Qian](https://www.cs.indiana.edu/~fengqian/) and Professor [XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/).  
    Research Interests: Network, Security and Privacy.  
+* **05/2017 – 08/2017 Summer Intern in Facebook**
 * **05/2017 – 07/2017 Summer Intern in [AT&T Labs Research](http://www.research.att.com/)**
 * **05/2014-05/2015 Software Engineer in Baidu Online Network Technology Co., LTD**
 * **09/2009 – 06/2013: Beijing Institute of Technology, Beijing, China.**  
