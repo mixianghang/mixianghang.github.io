@@ -8,7 +8,7 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 <!-- <span class = "note">Right now, I am looking for a summer internship in 2018.</span>-->
 
 ### <span class = "paperTitle">News</span>
-* **July 2018**: Our paper on voice asistants got accepted by Oakland'19.
+* **July 2018**: :smile: Our paper on voice asistants got accepted by Oakland'19.
 * **July 2018**: Presented our paper on residential IP proxies in Site Integrity team of Facebook.
 * **July 2018**: Our paper on residential IP proxies got accepted by Oakland'19.
 * **May 2018**: I joined **Site Integrity** group in Facebook as an intern for the next three months.
@@ -34,12 +34,12 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 * **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
    **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
    In Proceeding of ACM IMC 2017, London, UK.   
-   [**Paper**](/pubs/imc17_ifttt.pdf)
+   [**Paper**](/pubs/imc17_ifttt.pdf) [**Slides**](/pubs/slides/imc_ifttt_17.pdf)
 
 * **CoNEXT'16**, <span class = "paperTitle">SMig: Stream Migration Extension For HTTP/2</span>,   
    **Xianghang Mi**, Feng Qian, and XiaoFeng Wang  
    In Proceedings of ACM CoNEXT 2016, Irvine, CA.   
-   [**Paper**](/pubs/conext16_http2.pdf)
+   [**Paper**](/pubs/conext16_http2.pdf) [**Slides**](/pubs/slides/conext_smig_16.pdf)
 
 
 * **S&P'19**, <span class = "paperTitle">Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems</span>   
