@@ -8,7 +8,7 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 <!-- <span class = "note">Right now, I am looking for a summer internship in 2018.</span>-->
 
 ### <span class = "paperTitle">News</span>
-* **July 2018**: :smile: Our paper on voice asistants got accepted by Oakland'19.
+* **July 2018**: Our paper on voice asistants got accepted by Oakland'19.
 * **July 2018**: Presented our paper on residential IP proxies in Site Integrity team of Facebook.
 * **July 2018**: Our paper on residential IP proxies got accepted by Oakland'19.
 * **May 2018**: I joined **Site Integrity** group in Facebook as an intern for the next three months.
