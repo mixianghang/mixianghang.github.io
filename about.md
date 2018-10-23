@@ -34,7 +34,7 @@ I am Xianghang Mi, a third year PhD student in Computer Science with a research 
 * **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
    **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
    In Proceeding of ACM IMC 2017, London, UK.   
-   [**Paper**](/pubs/imc17_ifttt.pdf) [**Slides**](/pubs/slides/imc_ifttt_17.pdf)
+   [**Paper**](/pubs/imc17_ifttt.pdf) [**Slides**](/pubs/slides/imc_ifttt_17.pdf) [**Source code**](https://mixianghang.github.io/IFTTT_measurement/) [**Datasets**](https://mixianghang.github.io/IFTTT_measurement/)
 
 * **CoNEXT'16**, <span class = "paperTitle">SMig: Stream Migration Extension For HTTP/2</span>,   
    **Xianghang Mi**, Feng Qian, and XiaoFeng Wang  
