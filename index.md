@@ -8,6 +8,7 @@ I am Xianghang Mi, a PhD student in Computer Science with a research focus on ne
 <!-- <span class = "note">Right now, I am looking for a summer internship in 2018.</span>-->
 
 ### <span class = "paperTitle">News</span>
+* **Feb 2019**: Our paper on malicious domain take downs wins **Distinguished Paper Award of NDSS'19**.
 * **July 2018**: Our paper on voice asistants got accepted by Oakland'19.
 * **July 2018**: Presented our paper on residential IP proxies in Site Integrity team of Facebook.
 * **July 2018**: Our paper on residential IP proxies got accepted by Oakland'19.
@@ -42,6 +43,9 @@ I am Xianghang Mi, a PhD student in Computer Science with a research focus on ne
    In Proceedings of ACM CoNEXT 2016, Irvine, CA.   
    [**Paper**](/pubs/conext16_http2.pdf) [**Slides**](/pubs/slides/conext_smig_16.pdf)
 
+* **NDSS'19**, <span class = 'paperTitle'>Cracking Wall of Confinement: Understanding and Analyzing Malicious Domain Takedowns</span>   
+   Eihal Alowaisheq, Peng Wang, Sumayah Alrwais, Xiaojin Liao, Xiaofeng Wang, Tasneem Alowaisheq, **XiangHang Mi**, Siyuan Tang, Baojun Liu
+   In Proceeding of NDSS 2018, San Diego, CA.   
 
 * **S&P'19**, <span class = "paperTitle">Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems</span>   
    Nan Zhang, **Xianghang Mi**, Xuan Feng, XiaoFeng Wang, Yuan Tian, Feng Qian.   
