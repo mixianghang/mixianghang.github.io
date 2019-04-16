@@ -31,7 +31,7 @@ I am Xianghang Mi, a PhD student in Computer Science with a research focus on ne
    **Xianghang Mi**, Xuan Feng, Xiaojing Liao, Baojun Liu, Xiaofeng Wang, Feng Qian, Zhou Li, Sumayah Alrwais, Limin Sun, Ying Liu  
    To appear in the IEEE Symposium on Security & Privacy, May 2019.   
    [**Paper**](/pubs/rpaas.pdf) [**Blog**](https://medium.com/@xianghangmi/resident-evil-understanding-residential-ip-proxy-as-a-dark-service-dea9010a0e29?source=friends_link&sk=1b84f109431dfd92a0c73ec101b21289)
-    [**Data & Source code**](https://mixianghang.github.io/RPaaS/)
+    [**Data & Source code**](https://mixianghang.github.io/RPaaS/)  [**Talk Preview**](https://www.youtube.com/watch?v=oTlkEs9e_U0)
 
 * **IMC'17**, <span class = "paperTitle">An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</span>   
    **Xianghang Mi**, Feng Qian, Ying Zhang, and Xiaofeng Wang.  
@@ -50,6 +50,8 @@ I am Xianghang Mi, a PhD student in Computer Science with a research focus on ne
 * **S&P'19**, <span class = "paperTitle">Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems</span>   
    Nan Zhang, **Xianghang Mi**, Xuan Feng, XiaoFeng Wang, Yuan Tian, Feng Qian.   
    To appear in the IEEE Symposium on Security & Privacy, May 2019.   
+   [**Paper**](/pubs/voice_assistant.pdf) [**Attack Demos**](https://sites.google.com/site/voicevpasec/) 
+   [**Talk Preview**](https://www.youtube.com/watch?v=Dga7stXtXcc)
 
 
 * **arXiv'18**, <span class = "paperTitle">Understanding and Mitigating the Security Risks of Voice-Controlled Third-Party Skills on Amazon Alexa and Google Home</span>    
