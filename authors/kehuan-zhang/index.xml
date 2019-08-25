@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kehuan Zhang | Scott Xianghang Mi</title>
+    <link>https://xianghang.me/authors/kehuan-zhang/</link>
+      <atom:link href="https://xianghang.me/authors/kehuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kehuan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Kehuan Zhang</title>
+      <link>https://xianghang.me/authors/kehuan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
+      <link>https://xianghang.me/publication/security17_offline_payment/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/security17_offline_payment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding iot security through the data crystal ball: Where we are now and where we are going to be</title>
+      <link>https://xianghang.me/publication/arxiv17_iot_sok/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/arxiv17_iot_sok/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

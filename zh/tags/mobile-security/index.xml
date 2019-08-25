@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Security | 糜相行</title>
+    <link>https://xianghang.me/zh/tags/mobile-security/</link>
+      <atom:link href="https://xianghang.me/zh/tags/mobile-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobile Security</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Mobile Security</title>
+      <link>https://xianghang.me/zh/tags/mobile-security/</link>
+    </image>
+    
+    <item>
+      <title>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</title>
+      <link>https://xianghang.me/zh/publication/security19_crowdturfing/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/security19_crowdturfing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
+      <link>https://xianghang.me/zh/publication/security17_offline_payment/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/security17_offline_payment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

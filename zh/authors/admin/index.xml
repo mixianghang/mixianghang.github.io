@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>糜相行</title>
+    <link>https://xianghang.me/zh/authors/admin/</link>
+      <atom:link href="https://xianghang.me/zh/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>糜相行</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>糜相行</title>
+      <link>https://xianghang.me/zh/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://xianghang.me/zh/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/authors/admin/</guid>
+      <description>&lt;p&gt;I am Research Scientist in Facebook, working on security projects.&lt;/p&gt;
+
+&lt;p&gt;Prior to joining Facebook,
+I was a PhD student in Computer Science with a research focus on network and security.
+I am honored to be co-advised by Professor &lt;a href=&#34;https://www-users.cs.umn.edu/~fengqian/&#34; target=&#34;_blank&#34;&gt;Feng Qian&lt;/a&gt; and Professor &lt;a href=&#34;https://www.informatics.indiana.edu/xw7/&#34; target=&#34;_blank&#34;&gt;XiaoFeng Wang&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

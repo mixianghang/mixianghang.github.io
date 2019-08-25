@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network | 糜相行</title>
+    <link>https://xianghang.me/zh/tags/network/</link>
+      <atom:link href="https://xianghang.me/zh/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Network</title>
+      <link>https://xianghang.me/zh/tags/network/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</title>
+      <link>https://xianghang.me/zh/publication/imc17_ifttt/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/imc17_ifttt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMig: Stream Migration Extension For HTTP/2</title>
+      <link>https://xianghang.me/zh/publication/conext16_http2/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/conext16_http2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

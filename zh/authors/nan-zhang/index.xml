@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nan Zhang | 糜相行</title>
+    <link>https://xianghang.me/zh/authors/nan-zhang/</link>
+      <atom:link href="https://xianghang.me/zh/authors/nan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Nan Zhang</title>
+      <link>https://xianghang.me/zh/authors/nan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Dangerous skills: Understanding and mitigating security risks of voice-controlled third-party functions on virtual personal assistant systems</title>
+      <link>https://xianghang.me/zh/publication/voice_assistant_sp/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/voice_assistant_sp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/evdJzdnks2U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
+      <link>https://xianghang.me/zh/publication/security17_offline_payment/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/security17_offline_payment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding iot security through the data crystal ball: Where we are now and where we are going to be</title>
+      <link>https://xianghang.me/zh/publication/arxiv17_iot_sok/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/arxiv17_iot_sok/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Qian | Scott Xianghang Mi</title>
+    <link>https://xianghang.me/authors/feng-qian/</link>
+      <atom:link href="https://xianghang.me/authors/feng-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Qian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Feng Qian</title>
+      <link>https://xianghang.me/authors/feng-qian/</link>
+    </image>
+    
+    <item>
+      <title>Resident Evil: Understanding Residential IP Proxy as a Dark Service</title>
+      <link>https://xianghang.me/publication/resi_sp/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/resi_sp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dangerous skills: Understanding and mitigating security risks of voice-controlled third-party functions on virtual personal assistant systems</title>
+      <link>https://xianghang.me/publication/voice_assistant_sp/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/voice_assistant_sp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/evdJzdnks2U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations</title>
+      <link>https://xianghang.me/publication/ndss18_search_autocomplete/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/ndss18_search_autocomplete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</title>
+      <link>https://xianghang.me/publication/imc17_ifttt/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/imc17_ifttt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Under the shadow of sunshine: Understanding and detecting bulletproof hosting on legitimate service pr ovider networks</title>
+      <link>https://xianghang.me/publication/sp17_bulletproof_hosting/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/sp17_bulletproof_hosting/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/6WF8casarZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding iot security through the data crystal ball: Where we are now and where we are going to be</title>
+      <link>https://xianghang.me/publication/arxiv17_iot_sok/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/arxiv17_iot_sok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMig: Stream Migration Extension For HTTP/2</title>
+      <link>https://xianghang.me/publication/conext16_http2/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/conext16_http2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
