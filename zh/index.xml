@@ -5,12 +5,28 @@
     <link>https://xianghang.me/zh/</link>
       <atom:link href="https://xianghang.me/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>糜相行</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/img/icon-192.png</url>
       <title>糜相行</title>
       <link>https://xianghang.me/zh/</link>
     </image>
+    
+    <item>
+      <title>Finalist of CSAW&#39;19 Applied Research Competition</title>
+      <link>https://xianghang.me/zh/awards/20191015_csaw_finalist/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/awards/20191015_csaw_finalist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our security paper on Voice Assistant platforms has entered the finalist of CSAW&#39;19 Applied Research Competition</title>
+      <link>https://xianghang.me/zh/news/20191015_csaw_finalist/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/news/20191015_csaw_finalist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</title>
@@ -60,6 +76,14 @@
 &lt;/div&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>NDSS Distinguished Paper Award 2019</title>
+      <link>https://xianghang.me/zh/awards/20190201_ndss_paper_award/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/awards/20190201_ndss_paper_award/</guid>
+      <description></description>
     </item>
     
     <item>

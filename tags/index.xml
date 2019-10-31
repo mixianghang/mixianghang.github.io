@@ -5,12 +5,20 @@
     <link>https://xianghang.me/tags/</link>
       <atom:link href="https://xianghang.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://xianghang.me/tags/</link>
     </image>
+    
+    <item>
+      <title>job</title>
+      <link>https://xianghang.me/tags/job/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/tags/job/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IOS</title>
@@ -33,14 +41,6 @@
       <link>https://xianghang.me/tags/online-abuse/</link>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/tags/online-abuse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>job</title>
-      <link>https://xianghang.me/tags/job/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://xianghang.me/tags/job/</guid>
       <description></description>
     </item>
     

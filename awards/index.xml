@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Scott Xianghang Mi</title>
+    <link>https://xianghang.me/awards/</link>
+      <atom:link href="https://xianghang.me/awards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Awards</title>
+      <link>https://xianghang.me/awards/</link>
+    </image>
+    
+    <item>
+      <title>Finalist of CSAW&#39;19 Applied Research Competition</title>
+      <link>https://xianghang.me/awards/20191015_csaw_finalist/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/awards/20191015_csaw_finalist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDSS Distinguished Paper Award 2019</title>
+      <link>https://xianghang.me/awards/20190201_ndss_paper_award/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/awards/20190201_ndss_paper_award/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

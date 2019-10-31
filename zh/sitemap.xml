@@ -3,6 +3,116 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xianghang.me/zh/awards/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/awards/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/awards/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/awards/20191015_csaw_finalist/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/awards/20191015_csaw_finalist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/awards/20191015_csaw_finalist/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/news/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/news/20191015_csaw_finalist/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/news/20191015_csaw_finalist/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/news/20191015_csaw_finalist/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/tags/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/tags/job/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tags/job/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tags/job/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/zh/publication_types/1/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -130,22 +240,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/zh/tags/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/zh/authors/tongxin-li/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -257,22 +351,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/zh/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/zh/news/20190610_join_fb/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -284,38 +362,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://xianghang.me/zh/news/20190610_join_fb/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/zh/news/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/zh/tags/job/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tags/job/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tags/job/"
                 />
   </url>
   
@@ -601,6 +647,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://xianghang.me/zh/authors/yuan-tian/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/zh/awards/20190201_ndss_paper_award/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/awards/20190201_ndss_paper_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/awards/20190201_ndss_paper_award/"
                 />
   </url>
   
