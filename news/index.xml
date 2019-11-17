@@ -5,12 +5,20 @@
     <link>https://xianghang.me/news/</link>
       <atom:link href="https://xianghang.me/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/img/icon-192.png</url>
       <title>News</title>
       <link>https://xianghang.me/news/</link>
     </image>
+    
+    <item>
+      <title>Our work on Voice Assistant platforms has won CSAW&#39;19 Best Paper Award (3rd Place, 3 out of 80)</title>
+      <link>https://xianghang.me/news/20191116_csaw_best_paper/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/news/20191116_csaw_best_paper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Our security paper on Voice Assistant platforms has entered the finalist of CSAW&#39;19 Applied Research Competition</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award | Scott Xianghang Mi</title>
+    <link>https://xianghang.me/tags/award/</link>
+      <atom:link href="https://xianghang.me/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Award</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/img/icon-192.png</url>
+      <title>Award</title>
+      <link>https://xianghang.me/tags/award/</link>
+    </image>
+    
+    <item>
+      <title>3rd Place of CSAW&#39;19 Applied Research Competition</title>
+      <link>https://xianghang.me/awards/20191115_csaw_award/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/awards/20191115_csaw_award/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

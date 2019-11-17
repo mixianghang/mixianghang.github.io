@@ -5,7 +5,7 @@
     <link>https://xianghang.me/awards/</link>
       <atom:link href="https://xianghang.me/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/img/icon-192.png</url>
       <title>Awards</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Finalist of CSAW&#39;19 Applied Research Competition</title>
-      <link>https://xianghang.me/awards/20191015_csaw_finalist/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://xianghang.me/awards/20191015_csaw_finalist/</guid>
+      <title>3rd Place of CSAW&#39;19 Applied Research Competition</title>
+      <link>https://xianghang.me/awards/20191115_csaw_award/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/awards/20191115_csaw_award/</guid>
       <description></description>
     </item>
     
