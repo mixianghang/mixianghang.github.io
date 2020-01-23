@@ -81,22 +81,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/tags/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -109,6 +93,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/"
                 />
   </url>
   

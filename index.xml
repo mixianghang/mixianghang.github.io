@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scott Xianghang Mi</title>
+    <title>Xianghang Mi</title>
     <link>https://xianghang.me/</link>
       <atom:link href="https://xianghang.me/index.xml" rel="self" type="application/rss+xml" />
-    <description>Scott Xianghang Mi</description>
+    <description>Xianghang Mi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/img/icon-192.png</url>
-      <title>Scott Xianghang Mi</title>
+      <title>Xianghang Mi</title>
       <link>https://xianghang.me/</link>
     </image>
     
