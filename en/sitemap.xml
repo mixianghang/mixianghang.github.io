@@ -3,6 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xianghang.me/news/20200901_join_suny_buffalo/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/news/20200901_join_suny_buffalo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/news/20200901_join_suny_buffalo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/news/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/awards/20191115_csaw_award/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,22 +97,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/news/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/news/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/news/20191116_csaw_best_paper/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -93,22 +124,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/"
                 />
   </url>
   

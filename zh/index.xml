@@ -5,12 +5,20 @@
     <link>https://xianghang.me/zh/</link>
       <atom:link href="https://xianghang.me/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>糜相行</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/img/icon-192.png</url>
       <title>糜相行</title>
       <link>https://xianghang.me/zh/</link>
     </image>
+    
+    <item>
+      <title>I will join SUNY Buffalo as a tenure-track assistant professor, starting from Spring 2021.</title>
+      <link>https://xianghang.me/zh/news/20200901_join_suny_buffalo/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/news/20200901_join_suny_buffalo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3rd Place of CSAW&#39;19 Applied Research Competition</title>
