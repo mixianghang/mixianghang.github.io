@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://xianghang.me/sitemap.xml

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authenticaiton | Xianghang Mi</title>
+    <link>https://xianghang.me/tag/authenticaiton/</link>
+      <atom:link href="https://xianghang.me/tag/authenticaiton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authenticaiton</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Authenticaiton</title>
+      <link>https://xianghang.me/tag/authenticaiton/</link>
+    </image>
+    
+    <item>
+      <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
+      <link>https://xianghang.me/publication/security17_offline_payment/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/security17_offline_payment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

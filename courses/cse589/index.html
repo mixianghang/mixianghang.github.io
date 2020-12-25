@@ -1,0 +1,1194 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The course introduces basic elements of modern computer and telecommunication networks. The focus is on the four upper layers of the popular five-layer TCP/IP model. In each layer, the state- of-the-art hardware and software technologies are introduced. These include, for example, DNS, HTTP, SMTP, and P2P systems at the application layer, TCP/UDP protocols at the transport layer, routing and forwarding, intra-domain and inter-domain routing algorithms at the network layer, random access protocols at the MAC layer, and local area networks (Ethernet and WiFi). Advanced topics such as multipath TCP and software defined networking are also briefly discussed.">
+
+  
+  <link rel="alternate" hreflang="zh" href="https://xianghang.me/zh/courses/cse589/">
+  
+  <link rel="alternate" hreflang="en-us" href="https://xianghang.me/courses/cse589/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.min.b6c42e415f42ac246a43bd4bcf83734b.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135317264-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-135317264-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/courses/cse589/index.xml" type="application/rss+xml" title="Xianghang Mi">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu3df48a1f519d19d3881379426e536acb_195285_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu3df48a1f519d19d3881379426e536acb_195285_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://xianghang.me/courses/cse589/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@thinkForever1">
+  <meta property="twitter:creator" content="@thinkForever1">
+  
+  <meta property="og:site_name" content="Xianghang Mi">
+  <meta property="og:url" content="https://xianghang.me/courses/cse589/">
+  <meta property="og:title" content="CSE 589/489 Modern Networking Concepts | Xianghang Mi">
+  <meta property="og:description" content="The course introduces basic elements of modern computer and telecommunication networks. The focus is on the four upper layers of the popular five-layer TCP/IP model. In each layer, the state- of-the-art hardware and software technologies are introduced. These include, for example, DNS, HTTP, SMTP, and P2P systems at the application layer, TCP/UDP protocols at the transport layer, routing and forwarding, intra-domain and inter-domain routing algorithms at the network layer, random access protocols at the MAC layer, and local area networks (Ethernet and WiFi). Advanced topics such as multipath TCP and software defined networking are also briefly discussed."><meta property="og:image" content="https://xianghang.me/media/icon.gif">
+  <meta property="twitter:image" content="https://xianghang.me/media/icon.gif"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2020-12-24T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>CSE 589/489 Modern Networking Concepts | Xianghang Mi</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Xianghang Mi</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Xianghang Mi</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://medium.com/@xianghangmi" target="_blank" rel="noopener"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://github.com/mixianghang" target="_blank" rel="noopener"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link " data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item dropdown-item-active">
+            <span>English</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://xianghang.me/zh/courses/cse589/">
+            <span>中文 (简体)</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      <form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  
+  
+  
+  
+
+  
+  
+    
+
+    
+      
+
+      
+      
+
+
+  
+    
+    
+    
+    
+      
+    
+    
+
+    
+      <div class="docs-toc-item">
+        <a class="docs-toc-link  active" href="/courses/cse589/">Overview</a>
+    
+      
+        <ul class="nav docs-sidenav">
+      
+
+
+  <li class=""><a href="/courses/cse589/schedule/">Schedule</a></li>
+
+
+
+  <li class=""><a href="/courses/cse589/slides/">Course Slides</a></li>
+
+      
+        </ul>
+      
+    
+
+    
+      </div>
+    
+
+    
+  
+</nav>
+
+    </div>
+
+    
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#teaching-team">Teaching Team</a></li>
+    <li><a href="#course-description">Course Description</a></li>
+    <li><a href="#pre-requisites">Pre-requisites</a></li>
+    <li><a href="#textbooks">Textbooks</a></li>
+    <li><a href="#grading-policies">Grading Policies</a></li>
+    <li><a href="#course-policies">Course Policies</a></li>
+    <li><a href="#academic-integrity">Academic Integrity</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>CSE 589/489 Modern Networking Concepts</h1>
+
+          <div class="article-style">
+            <h2 id="teaching-team">Teaching Team</h2>
+<p>Instructors:</p>
+<ul>
+<li>
+<p>Xianghang (Scott) Mi, Assistant Professor</p>
+<p>Office Hours: TBD</p>
+<p>Email: xmi [at] buffalo.edu</p>
+</li>
+</ul>
+<p>Teaching Assistants: TBD</p>
+<p>Time and Location:</p>
+<ul>
+<li>Lectures: TBD</li>
+<li>Recitations: TBD</li>
+</ul>
+<h2 id="course-description">Course Description</h2>
+<p>The course introduces basic elements of modern computer and telecommunication networks. The focus is on the four upper layers of the popular five-layer TCP/IP model. In each layer, the state- of-the-art hardware and software technologies are introduced. These include, for example, DNS, HTTP, SMTP, and P2P systems at the application layer, TCP/UDP protocols at the transport layer, routing and forwarding, intra-domain and inter-domain routing algorithms at the network layer, random access protocols at the MAC layer, and local area networks (Ethernet and WiFi). Advanced topics such as multipath TCP and software defined networking are also briefly discussed.</p>
+<p>The objective of the course is to enable students to</p>
+<ul>
+<li>gain fundamental knowledge of computer and telecommunications networks</li>
+<li>understand various tradeoffs and choices in current networking technologies</li>
+<li>learn basic network programming</li>
+<li>prepare for studying advanced topics (e.g. CSE 620, CSE 630, CSE 646), and a career in the field of computer networking.</li>
+</ul>
+<p>At the end of this course, each student should be able to:</p>
+<ul>
+<li>Have a good overall picture of computer networking in general and the Internet in particular.</li>
+<li>Have a rough idea of how various networking components (hardware/software) work and where they belong in the 5-layer protocol stack.</li>
+<li>Know how to do network programming in C/C++ under Unix.</li>
+<li>Know how to do basic performance analysis of popular networking protocols.</li>
+<li>Know how to use popular networking tools such as <a href="https://www.wireshark.org/" target="_blank" rel="noopener">WireShark</a> and <a href="https://github.com/esnet/iperf" target="_blank" rel="noopener">iperf</a>.</li>
+<li>Start reading more advanced/research-oriented networking materials.</li>
+</ul>
+<h2 id="pre-requisites">Pre-requisites</h2>
+<p>Students need to have some basic knowledge of calculus and probability theory, data structures and algorithms (CSE 250 and either EAS 305 or MTH 411). In addition, <strong>they should be proficient in C or C++ programming</strong>.</p>
+<h2 id="textbooks">Textbooks</h2>
+<ul>
+<li><span style="color:red">Highly recommended!</span>, James F. F. Kurose and Keith W. Ross, &ldquo;Computer Networking: A Top-Down Approach&rdquo;, 7th edition, 2017.</li>
+<li><span style="color:red">Recommended</span>, UNIX Network Programming : Networking APIs : Sockets and XTI : Volume 1, Second Edition, W. Richard Stevens, Prentice Hall, Oct 1997, ISBN: 013490012X. Highly recommended!</li>
+<li>Computer Networks: A Systems Approach, Larry Peterson and Bruce S. Davie.</li>
+<li>Advanced Programming in the UNIX Evironment, W. Richard Stevens, Addison-Wesley, 1992, ISBN 0-201-56317-7.</li>
+<li>Computer Networks, Andrew Tanenbaum, Prentice Hall PTR; 4 edition (August 9, 2002), 912pp.</li>
+<li>Internetworking with TCP/IP, Volume 1: Principles, Protocols, and Architectures, Fourth Edition 4TH, Douglas E. Comer, Prentice Hall, Feb 2000, ISBN: 0130183806</li>
+<li>The TCP/IP Illustrated, Volume 1: The Protocols, W. Richard Stevens and Gary R. Wright, Addison Wesley Longman, Dec 1993, ISBN: 0201633469</li>
+<li>The TCP/IP Illustrated, Volume 2: The Implementation, W. Richard Stevens and Gary R. Wright, Addison Wesley Longman, Jan 1995, ISBN: 020163354X</li>
+<li>Queueing Systems: Theory, Vol. 1, Leonard Kleinrock, Wiley, John &amp; Sons, January 1975 Queueing Systems Volume 2: Computer Applications, Leonard Kleinrock (Editor), Wiley, John &amp; Sons, April 1976</li>
+</ul>
+<h2 id="grading-policies">Grading Policies</h2>
+<p>(Tentative and subject to change)</p>
+<ul>
+<li>Midterm: 20%</li>
+<li>Final: 20%</li>
+<li>Homeworks/WireShark Labs: 20%</li>
+<li>3 Programming Assignments: 40% (12% + 12% + 16%)</li>
+<li>Class Participation: 5%</li>
+</ul>
+<h2 id="course-policies">Course Policies</h2>
+<ul>
+<li>
+<p>Late policy: All assignments are due on the day and time posted.</p>
+<ul>
+<li>
+<p>Homeworks/WireShark Lab reports are due at the beginning of class. They may be submitted up to 1 day late, and late submissions will be scored out of 90 points instead of 100. No homework/report will be accepted more than 1 day after the assigned due date. Late day starts at the beginning of class when the homework/lab is due and ends 24 hours later.</p>
+</li>
+<li>
+<p>Programming assignments: Students have 4 late days to spread across the programming assignments as they see fit. After the late time is used up, 10 points will be deducted from the assignment score per late day. No programming assignment will be accepted more than 7 days after the assigned due date.</p>
+</li>
+<li>
+<p>Workload is heavy, so start early! Excuses that you did not have enough time for an assignment will not be considered. Extraordinary circumstances will be considered at the discretion of the instructor (not the TAs!), contact him if you think these apply to you.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Exams: If you miss an exam because of sickness or similar reasons, visit a physician and obtain a note detailing the period during which you were medically incapable of taking the exam. Notify the instructor immediately via e-mail or telephone (voice mail) if you are going to miss an exam, before the exam takes place unless medically impossible. See the instructor as soon as you return to class. If you miss an exam without a valid excuse, you will receive a zero grade for that exam. No make-up exam will be available without a valid excuse.</p>
+</li>
+<li>
+<p>No extra work in the next semester will be given to improve your grade.</p>
+</li>
+</ul>
+<p>Regrading policy:</p>
+<ul>
+<li>Homeworks/WireShark Labs: Homework/Lab grades will be posted on UBLearns. You can pick grade homeworks/labs from the instructor&rsquo;s office. Questions about homework/report grades should be sent by email to the TAs within one week after the grade is posted on UBLearns. If you are not satisfied with the TA&rsquo;s response, you should contact the instructor no later than 3 days after the TA&rsquo;s response.</li>
+<li>Programming assignments: Grades for the programming assignments will be posted on UBLearns. If you have questions about your grade, you should contact the TAs by email or during their office hours within one week after the grade is posted on UBLearns. If you are not satisfied with the TA&rsquo;s response, you should contact the instructor no later than 3 days after the TA&rsquo;s response.</li>
+<li>Exams: Exams will not be returned. Exam grades will be posted on UBLearns and you will be able to see your exam during the instructor&rsquo;s office hours. If you have questions about your grade, you should contact the instructor by email or during office hours within one week after the grade is posted on UBLearns.</li>
+<li>No regrade requests will be considered after the deadlines mentioned above.</li>
+</ul>
+<h2 id="academic-integrity">Academic Integrity</h2>
+<ul>
+<li>
+<p><span style="color:red"><strong>No tolerance on cheating!</strong></span></p>
+<ul>
+<li>All academic integrity violation cases will be reported to the department, school, and university, and recorded.</li>
+<li>0 in the particular assignment/exam if this is your first offense in any course.</li>
+<li>Fail the course on the second offense.</li>
+<li>Team members are equally responsible.</li>
+<li>Consult the Department and University Statements on Academic Integrity.</li>
+</ul>
+</li>
+<li>
+<p>Group study/discussion is encouraged, but the submission must be your own work.</p>
+</li>
+<li>
+<p>Homeworks/WireShark labs: Homeworks/lab reports must be written up individually or in teams of up to 3 students (highly recommended). One submission per team, one grade per team. Collaboration among teams or individuals is NOT allowed! Use of reference materials in the library or online is allowed, provided that the homework/report explicitly cites the references used. Note that copying the solutions from online sources is still considered cheating even if you cite the sources.</p>
+</li>
+<li>
+<p>Programming assignments: Programming assignments must be done individually. Discussions of ideas are welcome, but exchanges of source codes are not allowed. Use of segments of code found online is allowed provided that the student explicitly cites the references used. Note that copying the whole solution from online sources and/or copying code from past year assignments is still considered cheating even if you cite the sources.</p>
+</li>
+<li>
+<p>Students who do share their work with others are as responsible for academic dishonesty as the student receiving the material. Students are not to show work to other students, in class or outside the class. Students are responsible for the security of their work and should ensure that printed copies are not left in accessible places, and that file/directory permissions are set to be unreadable to others.</p>
+</li>
+<li>
+<p>Excuses such as &ldquo;I was not sure&rdquo; or &ldquo;I did not know&rdquo; will not be accepted. If you are not sure, ask the TAs and /or the instructor.</p>
+</li>
+</ul>
+
+          </div>
+
+          
+
+
+
+          
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Dec 25, 2020</p>
+
+          
+
+
+
+
+
+          
+
+
+
+
+          
+
+
+  
+  
+
+
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.0/mermaid.min.js" integrity="sha512-ja+hSBi4JDtjSqc4LTBsSwuBT3tdZ3oKYKd07lTVYmCnTCor56AnRql00ssqnTOR9Ss4gOP/ROGB3SfcJnZkeg==" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.2/anchor.min.js" integrity="sha512-I7w3ZdSFzw5j3jU3ZkNikBNeIrl3i+hEuEdwNmqUJvwNcaBUNcijnP2gd9DtGlgVYDplfjGoD8vTNsID+lCjqg==" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/wowchemy.min.abf79d5abd9391a904c9b122bfe98c04.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

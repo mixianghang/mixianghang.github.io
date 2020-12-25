@@ -5,9 +5,9 @@
     <link>https://xianghang.me/post/</link>
       <atom:link href="https://xianghang.me/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://xianghang.me/img/icon-192.png</url>
+      <url>https://xianghang.me/media/icon.gif</url>
       <title>Posts</title>
       <link>https://xianghang.me/post/</link>
     </image>

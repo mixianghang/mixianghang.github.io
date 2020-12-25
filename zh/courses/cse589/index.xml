@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSE 589/489 Modern Networking Concepts | 糜相行</title>
+    <link>https://xianghang.me/zh/courses/cse589/</link>
+      <atom:link href="https://xianghang.me/zh/courses/cse589/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSE 589/489 Modern Networking Concepts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>CSE 589/489 Modern Networking Concepts</title>
+      <link>https://xianghang.me/zh/courses/cse589/</link>
+    </image>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://xianghang.me/zh/courses/cse589/schedule/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/zh/courses/cse589/schedule/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Slides</title>
+      <link>https://xianghang.me/zh/courses/cse589/slides/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/zh/courses/cse589/slides/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

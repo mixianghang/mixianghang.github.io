@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>job | 糜相行</title>
+    <link>https://xianghang.me/zh/tag/job/</link>
+      <atom:link href="https://xianghang.me/zh/tag/job/index.xml" rel="self" type="application/rss+xml" />
+    <description>job</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>job</title>
+      <link>https://xianghang.me/zh/tag/job/</link>
+    </image>
+    
+    <item>
+      <title>I joined Facebook as Research Scientist</title>
+      <link>https://xianghang.me/zh/news/20190610_join_fb/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/news/20190610_join_fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I presented two papers on Oakland&#39;19</title>
+      <link>https://xianghang.me/zh/news/20190520_present_sp_papers/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/news/20190520_present_sp_papers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning Security | 糜相行</title>
+    <link>https://xianghang.me/zh/tag/machine-learning-security/</link>
+      <atom:link href="https://xianghang.me/zh/tag/machine-learning-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning Security</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Machine Learning Security</title>
+      <link>https://xianghang.me/zh/tag/machine-learning-security/</link>
+    </image>
+    
+    <item>
+      <title>Dangerous skills: Understanding and mitigating security risks of voice-controlled third-party functions on virtual personal assistant systems</title>
+      <link>https://xianghang.me/zh/publication/voice_assistant_sp/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/voice_assistant_sp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/evdJzdnks2U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

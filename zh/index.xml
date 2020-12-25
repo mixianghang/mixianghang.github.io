@@ -5,12 +5,46 @@
     <link>https://xianghang.me/zh/</link>
       <atom:link href="https://xianghang.me/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>糜相行</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xianghang.me/img/icon-192.png</url>
+      <url>https://xianghang.me/media/icon.gif</url>
       <title>糜相行</title>
       <link>https://xianghang.me/zh/</link>
     </image>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://xianghang.me/zh/courses/cse589/schedule/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/zh/courses/cse589/schedule/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Slides</title>
+      <link>https://xianghang.me/zh/courses/cse589/slides/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/zh/courses/cse589/slides/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One work on mobile proxy networks got accepted to NDSS 2021.</title>
+      <link>https://xianghang.me/zh/news/20201225_ndss21_accept/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/news/20201225_ndss21_accept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
+      <link>https://xianghang.me/zh/publication/ndss21_mobile_proxy/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/ndss21_mobile_proxy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I will join SUNY Buffalo as a tenure-track assistant professor, starting from Spring 2021.</title>
@@ -75,7 +109,7 @@
       <guid>https://xianghang.me/zh/publication/resi_sp/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -88,7 +122,7 @@
       <guid>https://xianghang.me/zh/publication/voice_assistant_sp/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/evdJzdnks2U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/evdJzdnks2U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -149,7 +183,7 @@
       <guid>https://xianghang.me/zh/publication/sp17_bulletproof_hosting/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/6WF8casarZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6WF8casarZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>

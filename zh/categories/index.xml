@@ -5,9 +5,9 @@
     <link>https://xianghang.me/zh/categories/</link>
       <atom:link href="https://xianghang.me/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://xianghang.me/img/icon-192.png</url>
+      <url>https://xianghang.me/media/icon.gif</url>
       <title>Categories</title>
       <link>https://xianghang.me/zh/categories/</link>
     </image>

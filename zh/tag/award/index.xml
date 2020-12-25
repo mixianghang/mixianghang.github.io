@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award | 糜相行</title>
+    <link>https://xianghang.me/zh/tag/award/</link>
+      <atom:link href="https://xianghang.me/zh/tag/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Award</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Award</title>
+      <link>https://xianghang.me/zh/tag/award/</link>
+    </image>
+    
+    <item>
+      <title>3rd Place of CSAW&#39;19 Applied Research Competition</title>
+      <link>https://xianghang.me/zh/awards/20191115_csaw_award/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/awards/20191115_csaw_award/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://xianghang.me/authors/xiaojing-liao/</link>
       <atom:link href="https://xianghang.me/authors/xiaojing-liao/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaojing Liao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xianghang.me/img/icon-192.png</url>
+      <url>https://xianghang.me/media/icon.gif</url>
       <title>Xiaojing Liao</title>
       <link>https://xianghang.me/authors/xiaojing-liao/</link>
     </image>
+    
+    <item>
+      <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
+      <link>https://xianghang.me/publication/ndss21_mobile_proxy/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/ndss21_mobile_proxy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</title>
@@ -27,7 +35,7 @@
       <guid>https://xianghang.me/publication/resi_sp/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
@@ -56,7 +64,7 @@
       <guid>https://xianghang.me/publication/sp17_bulletproof_hosting/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/6WF8casarZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6WF8casarZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
