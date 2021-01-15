@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Assignments | Xianghang Mi</title>
+    <link>https://xianghang.me/courses/cse589/assignments/</link>
+      <atom:link href="https://xianghang.me/courses/cse589/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming Assignments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Programming Assignments</title>
+      <link>https://xianghang.me/courses/cse589/assignments/</link>
+    </image>
+    
+    <item>
+      <title>Programming Assignment-I: Text Chat Application</title>
+      <link>https://xianghang.me/courses/cse589/assignments/pa_1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/courses/cse589/assignments/pa_1/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming Assignment-II</title>
+      <link>https://xianghang.me/courses/cse589/assignments/pa_2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/courses/cse589/assignments/pa_2/</guid>
+      <description>&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
