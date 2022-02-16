@@ -5,7 +5,7 @@
     <link>https://xianghang.me/</link>
       <atom:link href="https://xianghang.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Xianghang Mi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Xianghang Mi</title>
@@ -238,10 +238,139 @@
     </item>
     
     <item>
+      <title>Schedule</title>
+      <link>https://xianghang.me/courses/ustc_intro_cybersecurity/schedule/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/courses/ustc_intro_cybersecurity/schedule/</guid>
+      <description>&lt;p&gt;Below is the tentative schedule for Spring 2022.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Week&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Slides&lt;/th&gt;
+&lt;th&gt;Tasks&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;02/24&lt;/td&gt;
+&lt;td&gt;Course Overview; Chapter-I Intro to CyberSecurity&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;03/03&lt;/td&gt;
+&lt;td&gt;Chapter-II Cryptography&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;HW/Lab-1: due in 2 weeks; Research Proposal: due in 2 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;03/10&lt;/td&gt;
+&lt;td&gt;Chapter-III Authentication&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;03/17&lt;/td&gt;
+&lt;td&gt;Chapter-IV Authorization and Access Control&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;HW/Lab-2: due in 2 weeks; Research mid-term report: due in 4 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;03/24&lt;/td&gt;
+&lt;td&gt;Chapter-IV Network Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Programming Assignment-1: due in 4 weeks;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;03/31&lt;/td&gt;
+&lt;td&gt;Chapter-VI Software Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;HW/Lab-3: due in 2 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;04/07&lt;/td&gt;
+&lt;td&gt;Chapter-VII System Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;04/14&lt;/td&gt;
+&lt;td&gt;Chapter-VIII Hardware Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Researc Final Report: due in 4 weeks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;04/21&lt;/td&gt;
+&lt;td&gt;Chapter-IX Content Security/Cybercrime&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;04/28&lt;/td&gt;
+&lt;td&gt;Chapter-X  Privacy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;05/05&lt;/td&gt;
+&lt;td&gt;Chapter-XI AI Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;05/12&lt;/td&gt;
+&lt;td&gt;Chapter-XII Security Auditing / Digital Forensics&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;05/19&lt;/td&gt;
+&lt;td&gt;Chapter-XIII Emerging Cybersecurity Topics&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;05/26&lt;/td&gt;
+&lt;td&gt;Final Examination&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Course Slides</title>
       <link>https://xianghang.me/courses/cse589/slides/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0100</pubDate>
       <guid>https://xianghang.me/courses/cse589/slides/</guid>
+      <description>&lt;p&gt;Available upon requests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Slides</title>
+      <link>https://xianghang.me/courses/ustc_intro_cybersecurity/slides/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/courses/ustc_intro_cybersecurity/slides/</guid>
       <description>&lt;p&gt;Available upon requests.&lt;/p&gt;
 </description>
     </item>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xianghang.me/courses/ustc_intro_cybersecurity/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/courses/cse589/</loc>
     <lastmod>2020-12-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/courses/ustc_intro_cybersecurity/schedule/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/courses/cse589/slides/</loc>
     <lastmod>2020-12-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -44,6 +54,41 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/courses/cse589/slides/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/courses/ustc_intro_cybersecurity/slides/</loc>
+    <lastmod>2020-12-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/courses/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/"
                 />
   </url>
   
@@ -243,21 +288,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/authors/xiaofeng-wang/</loc>
     <lastmod>2020-12-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -314,21 +344,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/authors/zhengyi-li/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/courses/</loc>
-    <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/courses/"
                 />
   </url>
   
