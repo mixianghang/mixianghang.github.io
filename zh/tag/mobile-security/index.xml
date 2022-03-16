@@ -5,7 +5,7 @@
     <link>https://xianghang.me/zh/tag/mobile-security/</link>
       <atom:link href="https://xianghang.me/zh/tag/mobile-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobile Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Mobile Security</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
       <link>https://xianghang.me/zh/publication/ndss21_mobile_proxy/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/ndss21_mobile_proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
+      <link>https://xianghang.me/zh/publication_bak/ndss21_mobile_proxy/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/ndss21_mobile_proxy/</guid>
       <description></description>
     </item>
     
@@ -29,10 +37,26 @@
     </item>
     
     <item>
+      <title>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</title>
+      <link>https://xianghang.me/zh/publication_bak/security19_crowdturfing/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/security19_crowdturfing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
       <link>https://xianghang.me/zh/publication/security17_offline_payment/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/security17_offline_payment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
+      <link>https://xianghang.me/zh/publication_bak/security17_offline_payment/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/security17_offline_payment/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://xianghang.me/zh/authors/xianghang-mi/</link>
       <atom:link href="https://xianghang.me/zh/authors/xianghang-mi/index.xml" rel="self" type="application/rss+xml" />
     <description>Xianghang Mi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Xianghang Mi</title>
@@ -14,9 +14,25 @@
     
     <item>
       <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
+      <link>https://xianghang.me/zh/publication/ccs22_sms_spam/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/ccs22_sms_spam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
       <link>https://xianghang.me/zh/publication/ndss21_mobile_proxy/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/ndss21_mobile_proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks</title>
+      <link>https://xianghang.me/zh/publication_bak/ndss21_mobile_proxy/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/ndss21_mobile_proxy/</guid>
       <description></description>
     </item>
     
@@ -29,10 +45,31 @@
     </item>
     
     <item>
+      <title>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</title>
+      <link>https://xianghang.me/zh/publication_bak/security19_crowdturfing/</link>
+      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/security19_crowdturfing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Resident Evil: Understanding Residential IP Proxy as a Dark Service</title>
       <link>https://xianghang.me/zh/publication/resi_sp/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/resi_sp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Resident Evil: Understanding Residential IP Proxy as a Dark Service</title>
+      <link>https://xianghang.me/zh/publication_bak/resi_sp/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/resi_sp/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/gu_Rb4Tz30g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -55,10 +92,31 @@
     </item>
     
     <item>
+      <title>Dangerous skills: Understanding and mitigating security risks of voice-controlled third-party functions on virtual personal assistant systems</title>
+      <link>https://xianghang.me/zh/publication_bak/voice_assistant_sp/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/voice_assistant_sp/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/evdJzdnks2U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Cracking the Wall of Confinement: Understanding and Analyzing Malicious Domain Take-downs</title>
       <link>https://xianghang.me/zh/publication/ndss19_domain_takedown/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/ndss19_domain_takedown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cracking the Wall of Confinement: Understanding and Analyzing Malicious Domain Take-downs</title>
+      <link>https://xianghang.me/zh/publication_bak/ndss19_domain_takedown/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/ndss19_domain_takedown/</guid>
       <description></description>
     </item>
     
@@ -71,6 +129,14 @@
     </item>
     
     <item>
+      <title>Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations</title>
+      <link>https://xianghang.me/zh/publication_bak/ndss18_search_autocomplete/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/ndss18_search_autocomplete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</title>
       <link>https://xianghang.me/zh/publication/imc17_ifttt/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -79,10 +145,26 @@
     </item>
     
     <item>
+      <title>An Empirical Characterization of IFTTT: Ecosystem, Usage, and Performance</title>
+      <link>https://xianghang.me/zh/publication_bak/imc17_ifttt/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/imc17_ifttt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
       <link>https://xianghang.me/zh/publication/security17_offline_payment/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/security17_offline_payment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment</title>
+      <link>https://xianghang.me/zh/publication_bak/security17_offline_payment/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/security17_offline_payment/</guid>
       <description></description>
     </item>
     
@@ -100,6 +182,19 @@
     </item>
     
     <item>
+      <title>Under the shadow of sunshine: Understanding and detecting bulletproof hosting on legitimate service pr ovider networks</title>
+      <link>https://xianghang.me/zh/publication_bak/sp17_bulletproof_hosting/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/sp17_bulletproof_hosting/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6WF8casarZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Understanding iot security through the data crystal ball: Where we are now and where we are going to be</title>
       <link>https://xianghang.me/zh/publication/arxiv17_iot_sok/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
@@ -108,10 +203,26 @@
     </item>
     
     <item>
+      <title>Understanding iot security through the data crystal ball: Where we are now and where we are going to be</title>
+      <link>https://xianghang.me/zh/publication_bak/arxiv17_iot_sok/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/arxiv17_iot_sok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SMig: Stream Migration Extension For HTTP/2</title>
       <link>https://xianghang.me/zh/publication/conext16_http2/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/zh/publication/conext16_http2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMig: Stream Migration Extension For HTTP/2</title>
+      <link>https://xianghang.me/zh/publication_bak/conext16_http2/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication_bak/conext16_http2/</guid>
       <description></description>
     </item>
     
