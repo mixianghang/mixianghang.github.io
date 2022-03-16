@@ -93,6 +93,21 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/publication/ccs22_sms_spam/</loc>
+    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/ccs22_sms_spam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/ccs22_sms_spam/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/tag/cybercrime/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -284,21 +299,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/authors/ying-li/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/publication/ccs22_sms_spam/</loc>
-    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/publication/ccs22_sms_spam/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/publication/ccs22_sms_spam/"
                 />
   </url>
   
