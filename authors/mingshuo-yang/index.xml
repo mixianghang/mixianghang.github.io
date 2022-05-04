@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingshuo Yang | Xianghang Mi</title>
+    <link>https://xianghang.me/authors/mingshuo-yang/</link>
+      <atom:link href="https://xianghang.me/authors/mingshuo-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingshuo Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Mingshuo Yang</title>
+      <link>https://xianghang.me/authors/mingshuo-yang/</link>
+    </image>
+    
+    <item>
+      <title>An Extensive Study of Residential Proxies in China</title>
+      <link>https://xianghang.me/publication/ccs22_resip_china/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/ccs22_resip_china/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

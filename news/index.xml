@@ -5,12 +5,20 @@
     <link>https://xianghang.me/news/</link>
       <atom:link href="https://xianghang.me/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>News</title>
       <link>https://xianghang.me/news/</link>
     </image>
+    
+    <item>
+      <title>We have two papers accepted to appear in ACM CCS 2022.</title>
+      <link>https://xianghang.me/news/20220501_ccs_papers/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/news/20220501_ccs_papers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One work on mobile proxy networks got accepted to NDSS 2021.</title>

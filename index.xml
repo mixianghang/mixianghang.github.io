@@ -5,7 +5,7 @@
     <link>https://xianghang.me/</link>
       <atom:link href="https://xianghang.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Xianghang Mi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Xianghang Mi</title>
@@ -373,6 +373,22 @@
       <guid>https://xianghang.me/courses/ustc_intro_cybersecurity/slides/</guid>
       <description>&lt;p&gt;Available upon requests.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>We have two papers accepted to appear in ACM CCS 2022.</title>
+      <link>https://xianghang.me/news/20220501_ccs_papers/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/news/20220501_ccs_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Extensive Study of Residential Proxies in China</title>
+      <link>https://xianghang.me/publication/ccs22_resip_china/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/ccs22_resip_china/</guid>
+      <description></description>
     </item>
     
     <item>
