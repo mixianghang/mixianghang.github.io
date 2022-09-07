@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Frontier of Cybersecurity Research, Fall 2022, USTC | Xianghang Mi</title>
+    <link>https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/</link>
+      <atom:link href="https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Frontier of Cybersecurity Research, Fall 2022, USTC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>The Frontier of Cybersecurity Research, Fall 2022, USTC</title>
+      <link>https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/</link>
+    </image>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/schedule/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/schedule/</guid>
+      <description>&lt;p&gt;Below is the tentative schedule for Fall 2022.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Week&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Announcement&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;09/08/2022&lt;/td&gt;
+&lt;td&gt;Intro&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;09/15/2022&lt;/td&gt;
+&lt;td&gt;Security Measurement&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;09/22/2022&lt;/td&gt;
+&lt;td&gt;We Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;09/29/2022&lt;/td&gt;
+&lt;td&gt;Network Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;10/06/2022&lt;/td&gt;
+&lt;td&gt;Software Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;10/13/2022&lt;/td&gt;
+&lt;td&gt;System Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;10/20/2022&lt;/td&gt;
+&lt;td&gt;Hardware Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;10/27/2022&lt;/td&gt;
+&lt;td&gt;Cyber-Physicl Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;11/03/2022&lt;/td&gt;
+&lt;td&gt;Machine Learning Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;11/10/2022&lt;/td&gt;
+&lt;td&gt;Machine Learning Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;11/17/2022&lt;/td&gt;
+&lt;td&gt;Applied Crypto&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;11/24/2022&lt;/td&gt;
+&lt;td&gt;Privacy&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;12/01/2022&lt;/td&gt;
+&lt;td&gt;Usable Security&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;12/08/2022&lt;/td&gt;
+&lt;td&gt;Research Presentation&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;12/15/2022&lt;/td&gt;
+&lt;td&gt;Research Presentation&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Slides</title>
+      <link>https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/slides/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://xianghang.me/courses/ustc_frontier_cybersecurity_2022fall/slides/</guid>
+      <description>&lt;p&gt;Available upon requests.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

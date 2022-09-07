@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>USTC 011184.02 Introduction to CyberSecurity | Xianghang Mi</title>
+    <title>Introduction to CyberSecurity, Spring 2022, USTC | Xianghang Mi</title>
     <link>https://xianghang.me/courses/ustc_intro_cybersecurity/</link>
       <atom:link href="https://xianghang.me/courses/ustc_intro_cybersecurity/index.xml" rel="self" type="application/rss+xml" />
-    <description>USTC 011184.02 Introduction to CyberSecurity</description>
+    <description>Introduction to CyberSecurity, Spring 2022, USTC</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
-      <title>USTC 011184.02 Introduction to CyberSecurity</title>
+      <title>Introduction to CyberSecurity, Spring 2022, USTC</title>
       <link>https://xianghang.me/courses/ustc_intro_cybersecurity/</link>
     </image>
     
