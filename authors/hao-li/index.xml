@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Li | Xianghang Mi</title>
+    <link>https://xianghang.me/authors/hao-li/</link>
+      <atom:link href="https://xianghang.me/authors/hao-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Hao Li</title>
+      <link>https://xianghang.me/authors/hao-li/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Study of Storj DCS: Ecosystem, Performance, and Security</title>
+      <link>https://xianghang.me/publication/2023-iwqos/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2023-iwqos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

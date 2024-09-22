@@ -5,12 +5,28 @@
     <link>https://xianghang.me/tag/online-abuse/</link>
       <atom:link href="https://xianghang.me/tag/online-abuse/index.xml" rel="self" type="application/rss+xml" />
     <description>Online Abuse</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Online Abuse</title>
       <link>https://xianghang.me/tag/online-abuse/</link>
     </image>
+    
+    <item>
+      <title>Reflected Search Poisoning for Illicit Promotion</title>
+      <link>https://xianghang.me/publication/2024-arxiv-c/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illicit Promotion on Twitter</title>
+      <link>https://xianghang.me/publication/2024-arxiv-d/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</title>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI for Security | Xianghang Mi</title>
+    <link>https://xianghang.me/tag/ai-for-security/</link>
+      <atom:link href="https://xianghang.me/tag/ai-for-security/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI for Security</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>AI for Security</title>
+      <link>https://xianghang.me/tag/ai-for-security/</link>
+    </image>
+    
+    <item>
+      <title>Shining Light into the Tunnel: Understanding and Classifying Network Traffic of Residential Proxies</title>
+      <link>https://xianghang.me/publication/2024-arxiv-a/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port Forwarding Services Are Forwarding Security Risks</title>
+      <link>https://xianghang.me/publication/2024-arxiv-b/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflected Search Poisoning for Illicit Promotion</title>
+      <link>https://xianghang.me/publication/2024-arxiv-c/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illicit Promotion on Twitter</title>
+      <link>https://xianghang.me/publication/2024-arxiv-d/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

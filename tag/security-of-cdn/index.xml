@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security of CDN | Xianghang Mi</title>
+    <link>https://xianghang.me/tag/security-of-cdn/</link>
+      <atom:link href="https://xianghang.me/tag/security-of-cdn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security of CDN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Security of CDN</title>
+      <link>https://xianghang.me/tag/security-of-cdn/</link>
+    </image>
+    
+    <item>
+      <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
+      <link>https://xianghang.me/publication/2024-acsac/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-acsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealthy Peers: Understanding Security and Privacy Risks of Peer-Assisted Video Streaming</title>
+      <link>https://xianghang.me/publication/2024-dsn/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-dsn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

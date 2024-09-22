@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to CyberSecurity, Spring 2024, USTC | Xianghang Mi</title>
+    <link>https://xianghang.me/courses/2024spring_ustc/</link>
+      <atom:link href="https://xianghang.me/courses/2024spring_ustc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Introduction to CyberSecurity, Spring 2024, USTC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Introduction to CyberSecurity, Spring 2024, USTC</title>
+      <link>https://xianghang.me/courses/2024spring_ustc/</link>
+    </image>
+    
+  </channel>
+</rss>

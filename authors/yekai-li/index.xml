@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yekai Li | Xianghang Mi</title>
+    <link>https://xianghang.me/authors/yekai-li/</link>
+      <atom:link href="https://xianghang.me/authors/yekai-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yekai Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Yekai Li</title>
+      <link>https://xianghang.me/authors/yekai-li/</link>
+    </image>
+    
+    <item>
+      <title>Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning</title>
+      <link>https://xianghang.me/publication/2024-arxiv-e/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection</title>
+      <link>https://xianghang.me/publication/2024-arxiv-f/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

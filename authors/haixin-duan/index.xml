@@ -5,12 +5,20 @@
     <link>https://xianghang.me/authors/haixin-duan/</link>
       <atom:link href="https://xianghang.me/authors/haixin-duan/index.xml" rel="self" type="application/rss+xml" />
     <description>Haixin Duan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Haixin Duan</title>
       <link>https://xianghang.me/authors/haixin-duan/</link>
     </image>
+    
+    <item>
+      <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
+      <link>https://xianghang.me/publication/2024-acsac/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-acsac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Extensive Study of Residential Proxies in China</title>

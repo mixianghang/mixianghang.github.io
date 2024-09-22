@@ -5,7 +5,7 @@
     <link>https://xianghang.me/</link>
       <atom:link href="https://xianghang.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Xianghang Mi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Xianghang Mi</title>
@@ -610,6 +610,86 @@
     </item>
     
     <item>
+      <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
+      <link>https://xianghang.me/publication/2024-acsac/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-acsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command Hijacking on Voice-Controlled IoT in Amazon Alexa Platform</title>
+      <link>https://xianghang.me/publication/2024-asiaccs/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-asiaccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealthy Peers: Understanding Security and Privacy Risks of Peer-Assisted Video Streaming</title>
+      <link>https://xianghang.me/publication/2024-dsn/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-dsn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shining Light into the Tunnel: Understanding and Classifying Network Traffic of Residential Proxies</title>
+      <link>https://xianghang.me/publication/2024-arxiv-a/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port Forwarding Services Are Forwarding Security Risks</title>
+      <link>https://xianghang.me/publication/2024-arxiv-b/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflected Search Poisoning for Illicit Promotion</title>
+      <link>https://xianghang.me/publication/2024-arxiv-c/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illicit Promotion on Twitter</title>
+      <link>https://xianghang.me/publication/2024-arxiv-d/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning</title>
+      <link>https://xianghang.me/publication/2024-arxiv-e/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection</title>
+      <link>https://xianghang.me/publication/2024-arxiv-f/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Storj DCS: Ecosystem, Performance, and Security</title>
+      <link>https://xianghang.me/publication/2023-iwqos/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2023-iwqos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>We have two papers accepted to appear in ACM CCS 2022.</title>
       <link>https://xianghang.me/news/20220501_ccs_papers/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -658,7 +738,7 @@
     </item>
     
     <item>
-      <title>3rd Place of CSAW&#39;19 Applied Research Competition</title>
+      <title>Best Paper Award of CSAW&#39;19 Applied Research Competition</title>
       <link>https://xianghang.me/awards/20191115_csaw_award/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/awards/20191115_csaw_award/</guid>

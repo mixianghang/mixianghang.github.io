@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rufan Zhang | Xianghang Mi</title>
+    <link>https://xianghang.me/authors/rufan-zhang/</link>
+      <atom:link href="https://xianghang.me/authors/rufan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rufan Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Rufan Zhang</title>
+      <link>https://xianghang.me/authors/rufan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection</title>
+      <link>https://xianghang.me/publication/2024-arxiv-f/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-f/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

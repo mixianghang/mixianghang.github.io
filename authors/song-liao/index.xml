@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Song Liao | Xianghang Mi</title>
+    <link>https://xianghang.me/authors/song-liao/</link>
+      <atom:link href="https://xianghang.me/authors/song-liao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Song Liao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Song Liao</title>
+      <link>https://xianghang.me/authors/song-liao/</link>
+    </image>
+    
+    <item>
+      <title>Command Hijacking on Voice-Controlled IoT in Amazon Alexa Platform</title>
+      <link>https://xianghang.me/publication/2024-asiaccs/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-asiaccs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

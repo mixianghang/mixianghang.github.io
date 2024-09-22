@@ -5,12 +5,20 @@
     <link>https://xianghang.me/tag/iot-security/</link>
       <atom:link href="https://xianghang.me/tag/iot-security/index.xml" rel="self" type="application/rss+xml" />
     <description>IoT Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>IoT Security</title>
       <link>https://xianghang.me/tag/iot-security/</link>
     </image>
+    
+    <item>
+      <title>Command Hijacking on Voice-Controlled IoT in Amazon Alexa Platform</title>
+      <link>https://xianghang.me/publication/2024-asiaccs/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-asiaccs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dangerous skills: Understanding and mitigating security risks of voice-controlled third-party functions on virtual personal assistant systems</title>

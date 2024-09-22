@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Bi | Xianghang Mi</title>
+    <link>https://xianghang.me/authors/yu-bi/</link>
+      <atom:link href="https://xianghang.me/authors/yu-bi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Bi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Yu Bi</title>
+      <link>https://xianghang.me/authors/yu-bi/</link>
+    </image>
+    
+    <item>
+      <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
+      <link>https://xianghang.me/publication/2024-acsac/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-acsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning</title>
+      <link>https://xianghang.me/publication/2024-arxiv-e/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2024-arxiv-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
