@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Security | Xianghang Mi</title>
+    <title>Web Security | Xianghang (Scott) Mi</title>
     <link>https://xianghang.me/tag/web-security/</link>
       <atom:link href="https://xianghang.me/tag/web-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Security</description>
