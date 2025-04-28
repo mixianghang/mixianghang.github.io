@@ -5,12 +5,28 @@
     <link>https://xianghang.me/publication/</link>
       <atom:link href="https://xianghang.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Publications</title>
       <link>https://xianghang.me/publication/</link>
     </image>
+    
+    <item>
+      <title>Port Forwarding Services Are Forwarding Security Risks</title>
+      <link>https://xianghang.me/publication/2025-eurosp/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2025-eurosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter</title>
+      <link>https://xianghang.me/publication/2025-www/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2025-www/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
@@ -45,26 +61,10 @@
     </item>
     
     <item>
-      <title>Port Forwarding Services Are Forwarding Security Risks</title>
-      <link>https://xianghang.me/publication/2024-arxiv-b/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://xianghang.me/publication/2024-arxiv-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reflected Search Poisoning for Illicit Promotion</title>
       <link>https://xianghang.me/publication/2024-arxiv-c/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/publication/2024-arxiv-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Illicit Promotion on Twitter</title>
-      <link>https://xianghang.me/publication/2024-arxiv-d/</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://xianghang.me/publication/2024-arxiv-d/</guid>
       <description></description>
     </item>
     

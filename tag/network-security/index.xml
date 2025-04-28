@@ -5,12 +5,20 @@
     <link>https://xianghang.me/tag/network-security/</link>
       <atom:link href="https://xianghang.me/tag/network-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Network Security</title>
       <link>https://xianghang.me/tag/network-security/</link>
     </image>
+    
+    <item>
+      <title>Port Forwarding Services Are Forwarding Security Risks</title>
+      <link>https://xianghang.me/publication/2025-eurosp/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2025-eurosp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
@@ -33,14 +41,6 @@
       <link>https://xianghang.me/publication/2024-arxiv-a/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/publication/2024-arxiv-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Port Forwarding Services Are Forwarding Security Risks</title>
-      <link>https://xianghang.me/publication/2024-arxiv-b/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://xianghang.me/publication/2024-arxiv-b/</guid>
       <description></description>
     </item>
     
