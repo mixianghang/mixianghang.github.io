@@ -5,12 +5,20 @@
     <link>https://xianghang.me/authors/yong-fang/</link>
       <atom:link href="https://xianghang.me/authors/yong-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Fang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Yong Fang</title>
       <link>https://xianghang.me/authors/yong-fang/</link>
     </image>
+    
+    <item>
+      <title>Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models</title>
+      <link>https://xianghang.me/publication/2026-acisp/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2026-acisp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>

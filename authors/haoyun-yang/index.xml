@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haoyun Yang | Xianghang (Scott) Mi</title>
+    <link>https://xianghang.me/authors/haoyun-yang/</link>
+      <atom:link href="https://xianghang.me/authors/haoyun-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoyun Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Haoyun Yang</title>
+      <link>https://xianghang.me/authors/haoyun-yang/</link>
+    </image>
+    
+    <item>
+      <title>Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models</title>
+      <link>https://xianghang.me/publication/2026-acisp/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2026-acisp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

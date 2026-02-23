@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anonymous Communication | Xianghang (Scott) Mi</title>
+    <link>https://xianghang.me/tag/anonymous-communication/</link>
+      <atom:link href="https://xianghang.me/tag/anonymous-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anonymous Communication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianghang.me/media/icon.gif</url>
+      <title>Anonymous Communication</title>
+      <link>https://xianghang.me/tag/anonymous-communication/</link>
+    </image>
+    
+    <item>
+      <title>Pepper: High-bandwidth and Scalable Anonymous Broadcast with Cryptographic Privacy</title>
+      <link>https://xianghang.me/publication/2026-ifipsec/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2026-ifipsec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

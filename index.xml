@@ -618,6 +618,22 @@
     </item>
     
     <item>
+      <title>Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models</title>
+      <link>https://xianghang.me/publication/2026-acisp/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2026-acisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pepper: High-bandwidth and Scalable Anonymous Broadcast with Cryptographic Privacy</title>
+      <link>https://xianghang.me/publication/2026-ifipsec/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/publication/2026-ifipsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Port Forwarding Services Are Forwarding Security Risks</title>
       <link>https://xianghang.me/publication/2025-eurosp/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
@@ -894,6 +910,20 @@
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://xianghang.me/publication/conext16_http2/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xianghang.me/includes/publication-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/includes/publication-summary/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; My research has led to &lt;a href=&#34;https://xianghang.me/datasets/&#34;&gt;datasets and tools&lt;/a&gt; released to the public, along with tens of publications in well-recognized security venues, e.g.,  IEEE Security &amp;amp; Privacy, USENIX Security, CCS, NDSS, IMC, CoNEXT, DSN, ACSAC, AsiaCCS,  etc. Most publications can be grouped by the following research topics:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The security of AI agents (e.g., voice assistants)&lt;/strong&gt;: &lt;a href=&#34;https://xianghang.me/publication/imc17_ifttt/&#34;&gt;[IMC&#39;17]&lt;/a&gt; &lt;a href=&#34;publication/voice_assistant_sp/&#34;&gt;[SP&#39;19-b]&lt;/a&gt; &lt;a href=&#34;publication/2024-asiaccs&#34;&gt;[AsiaCCS&#39;24]&lt;/a&gt; &lt;a href=&#34;publication/2026-www&#34;&gt;[WWW&#39;26]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Residential proxies, reverse proxies, and anonymity&lt;/strong&gt;: &lt;a href=&#34;publication/resi_sp/&#34;&gt;[SP&#39;19-a]&lt;/a&gt; &lt;a href=&#34;publication/ndss21_mobile_proxy/&#34;&gt;[NDSS&#39;21]&lt;/a&gt; &lt;a href=&#34;publication/ccs22_resip_china/&#34;&gt;[CCS&#39;22-a]&lt;/a&gt; &lt;a href=&#34;publication/2024-arxiv-a/&#34;&gt;[arXiv&#39;24-a]&lt;/a&gt; &lt;a href=&#34;publication/2025-eurosp/&#34;&gt;[EuroSP&#39;25]&lt;/a&gt; &lt;a href=&#34;publication/2026-ifipsec&#34;&gt;[IFIPSEC&#39;26]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The security of decentralized network infrastructures&lt;/strong&gt;: &lt;a href=&#34;publication/2023-iwqos/&#34;&gt;[IWQoS&#39;23]&lt;/a&gt; &lt;a href=&#34;publication/2024-dsn&#34;&gt;[DSN&#39;24]&lt;/a&gt; &lt;a href=&#34;publication/2024-acsac&#34;&gt;[ACSAC&#39;24]&lt;/a&gt; &lt;a href=&#34;publication/2026-acisp&#34;&gt;[ACISP&#39;26]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Detection and measurement of online abuse and cybercrime&lt;/strong&gt;: &lt;a href=&#34;publication/sp17_bulletproof_hosting/&#34;&gt;[SP&#39;17]&lt;/a&gt; &lt;a href=&#34;publication/ndss18_search_autocomplete/&#34;&gt;[NDSS&#39;18]&lt;/a&gt;  &lt;a href=&#34;publication/ndss19_domain_takedown&#34;&gt;[NDSS&#39;19]&lt;/a&gt; &lt;a href=&#34;publication/security19_crowdturfing&#34;&gt;[Security&#39;19]&lt;/a&gt; &lt;a href=&#34;publication/ccs22_sms_spam&#34;&gt;[CCS&#39;22-b]&lt;/a&gt;  &lt;a href=&#34;publication/2025-www/&#34;&gt;[WWW&#39;25]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notation:&lt;/strong&gt; * indicates co-first author; † indicates corresponding author.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

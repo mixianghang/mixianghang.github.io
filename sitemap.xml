@@ -153,6 +153,86 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/tag/android-security/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/beizeng-zhang/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/foundation-models/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/haoyun-yang/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/junpu-guo/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2026-acisp/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/tls-security/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/vulnerability-detection/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yong-fang/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/zhanyu-wu/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/anonymous-communication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/chenghao-li/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/cryptography/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/network-security/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2026-ifipsec/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/privacy/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/tag/ai-for-security/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url>
@@ -164,11 +244,6 @@
   
   <url>
     <loc>https://xianghang.me/authors/haoyuan-wang/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tag/network-security/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -234,11 +309,6 @@
   
   <url>
     <loc>https://xianghang.me/authors/shujun-tang/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/yong-fang/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -812,11 +882,19 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/includes/publication-summary/</loc>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/categories/</loc>
   </url>
   
   <url>
     <loc>https://xianghang.me/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/includes/</loc>
   </url>
   
   <url>
