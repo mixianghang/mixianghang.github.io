@@ -69,16 +69,91 @@
   
   <url>
     <loc>https://xianghang.me/publication-type/1/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xianghang.me/tag/ai-for-security/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <loc>https://xianghang.me/tag/adversarial-examples/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/ai-security/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://xianghang.me/authors/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2026-www/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/evasion-attacks/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/hongyu-wang/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/llm-security/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/ningyuan-he/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication_types/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/qianqian-tang/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/ronghong-huang/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/shanqing-guo/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tags/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/xianghang-mi/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/ai-for-security/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,32 +178,7 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/publication_types/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/publication/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tags/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/tag/web-security/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/xianghang-mi/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,17 +198,7 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/authors/hongyu-wang/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/tag/online-abuse/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/ronghong-huang/</loc>
     <lastmod>2025-04-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,11 +233,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/authors/shanqing-guo/</loc>
-    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/authors/shujun-tang/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
   </url>
@@ -210,11 +245,6 @@
   <url>
     <loc>https://xianghang.me/authors/yu-bi/</loc>
     <lastmod>2024-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tag/ai-security/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
