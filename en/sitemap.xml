@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://xianghang.me/courses/2024spring_ustc/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/courses/2023spring_ustc_intro_cybersecurity/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -93,8 +98,1193 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/publication-type/1/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication-type/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/adversarial-examples/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/adversarial-examples/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/adversarial-examples/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/ai-security/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/ai-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/ai-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/evasion-attacks/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/evasion-attacks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/evasion-attacks/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/hongyu-wang/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/hongyu-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/hongyu-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2026-www/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2026-www/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2026-www/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/llm-security/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/llm-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/llm-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/ningyuan-he/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/ningyuan-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/ningyuan-he/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication_types/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/qianqian-tang/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/qianqian-tang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/qianqian-tang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/ronghong-huang/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/ronghong-huang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/ronghong-huang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/shanqing-guo/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/shanqing-guo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/shanqing-guo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tags/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/xianghang-mi/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/xianghang-mi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/xianghang-mi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/android-security/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/android-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/android-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/beizeng-zhang/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/beizeng-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/beizeng-zhang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/foundation-models/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/foundation-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/foundation-models/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/haoyun-yang/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/haoyun-yang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/haoyun-yang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/junpu-guo/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/junpu-guo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/junpu-guo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2026-acisp/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2026-acisp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2026-acisp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/tls-security/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/tls-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/tls-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/vulnerability-detection/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/vulnerability-detection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/vulnerability-detection/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yong-fang/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/yong-fang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/yong-fang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/zhanyu-wu/</loc>
+    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/zhanyu-wu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/zhanyu-wu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/anonymous-communication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/anonymous-communication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/anonymous-communication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/chenghao-li/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/chenghao-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/chenghao-li/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/cryptography/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/cryptography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/cryptography/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/network-security/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/network-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/network-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2026-ifipsec/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2026-ifipsec/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2026-ifipsec/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/privacy/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/ai-for-security/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/ai-for-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/ai-for-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/chao-zhou/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/chao-zhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/chao-zhou/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/haoyuan-wang/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/haoyuan-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/haoyuan-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2025-eurosp/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2025-eurosp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2025-eurosp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/web-security/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/web-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/web-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/xuan-feng/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/xuan-feng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/xuan-feng/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yue-xue/</loc>
+    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/yue-xue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/yue-xue/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2025-www/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2025-www/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2025-www/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/online-abuse/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/online-abuse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/online-abuse/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/ying-li/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/ying-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/ying-li/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-acsac/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-acsac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-acsac/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/haixin-duan/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/haixin-duan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/haixin-duan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/mingshuo-yang/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/mingshuo-yang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/mingshuo-yang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/security-of-cdn/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/security-of-cdn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/security-of-cdn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/security-of-edge-computing/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/security-of-edge-computing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/security-of-edge-computing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/shujun-tang/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/shujun-tang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/shujun-tang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yu-bi/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/yu-bi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/yu-bi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-asiaccs/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-asiaccs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-asiaccs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/hongxin-hu/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/hongxin-hu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/hongxin-hu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/iot-security/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/iot-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/iot-security/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/long-cheng/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/long-cheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/long-cheng/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/song-liao/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/song-liao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/song-liao/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/wenbo-ding/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/wenbo-ding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/wenbo-ding/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/ziming-zhao/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/ziming-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/ziming-zhao/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/eihal-alowaisheq/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/eihal-alowaisheq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/eihal-alowaisheq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/siyuan-tang/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/siyuan-tang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/siyuan-tang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-dsn/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-dsn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-dsn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/xiaofeng-wang/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/xiaofeng-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/xiaofeng-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yanzhi-dou/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/yanzhi-dou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/yanzhi-dou/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yi-chen/</loc>
+    <lastmod>2024-06-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/yi-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/yi-chen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/dongfang-zhao/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/dongfang-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/dongfang-zhao/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-arxiv-a/</loc>
+    <lastmod>2024-04-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-arxiv-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-arxiv-a/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/jialong-xue/</loc>
+    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/jialong-xue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/jialong-xue/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-arxiv-c/</loc>
+    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-arxiv-c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-arxiv-c/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/sangyi-wu/</loc>
+    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/sangyi-wu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/sangyi-wu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/shaoxuan-zhou/</loc>
+    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/shaoxuan-zhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/shaoxuan-zhou/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-arxiv-e/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-arxiv-e/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-arxiv-e/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/federated-learning/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/federated-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/federated-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/malware-detection/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/malware-detection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/malware-detection/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/privacy-preserving-security-learning/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/privacy-preserving-security-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/privacy-preserving-security-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/spam-classification/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/spam-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/spam-classification/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/yekai-li/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/yekai-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/yekai-li/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/rufan-zhang/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/rufan-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/rufan-zhang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/sms-spam-classification/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/sms-spam-classification/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/sms-spam-classification/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/publication/2024-arxiv-f/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/publication/2024-arxiv-f/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/publication/2024-arxiv-f/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/wenxin-rong/</loc>
+    <lastmod>2024-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/wenxin-rong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/wenxin-rong/"
+                />
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/courses/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -108,17 +1298,77 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <loc>https://xianghang.me/publication/2023-iwqos/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://xianghang.me/zh/"
+                href="https://xianghang.me/zh/publication/2023-iwqos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://xianghang.me/"
+                href="https://xianghang.me/publication/2023-iwqos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/decentralized-cloud-storage/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/decentralized-cloud-storage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/decentralized-cloud-storage/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/authors/hao-li/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/authors/hao-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/authors/hao-li/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/performance/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/performance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/performance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/tag/storj/</loc>
+    <lastmod>2023-06-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/tag/storj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/tag/storj/"
                 />
   </url>
   
@@ -143,21 +1393,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/publication-type/1/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/publication-type/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/publication-type/1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/publication/ccs22_resip_china/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -169,21 +1404,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/publication/ccs22_resip_china/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/"
                 />
   </url>
   
@@ -203,126 +1423,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/authors/haixin-duan/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/haixin-duan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/haixin-duan/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/mingshuo-yang/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/mingshuo-yang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/mingshuo-yang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tag/network-security/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tag/network-security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tag/network-security/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/publication_types/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/publication/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/shanqing-guo/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/shanqing-guo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/shanqing-guo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/shujun-tang/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/shujun-tang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/shujun-tang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tags/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/tag/web-proxy/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -334,36 +1434,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/tag/web-proxy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tag/web-security/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tag/web-security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tag/web-security/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/xianghang-mi/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/xianghang-mi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/xianghang-mi/"
                 />
   </url>
   
@@ -443,21 +1513,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/authors/siyuan-tang/</loc>
-    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/siyuan-tang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/siyuan-tang/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/tag/spam/</loc>
     <lastmod>2022-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -469,36 +1524,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/tag/spam/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/xiaofeng-wang/</loc>
-    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/xiaofeng-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/xiaofeng-wang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/ying-li/</loc>
-    <lastmod>2022-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/ying-li/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/ying-li/"
                 />
   </url>
   
@@ -608,21 +1633,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/awards/20191115_csaw_award/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/awards/20191115_csaw_award/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/awards/20191115_csaw_award/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/tag/award/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -649,6 +1659,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/awards/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/awards/20191115_csaw_award/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://xianghang.me/zh/awards/20191115_csaw_award/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://xianghang.me/awards/20191115_csaw_award/"
                 />
   </url>
   
@@ -709,21 +1734,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/authors/kwangwuk-lee/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tag/online-abuse/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tag/online-abuse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tag/online-abuse/"
                 />
   </url>
   
@@ -908,21 +1918,6 @@
   </url>
   
   <url>
-    <loc>https://xianghang.me/authors/xuan-feng/</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/xuan-feng/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/xuan-feng/"
-                />
-  </url>
-  
-  <url>
     <loc>https://xianghang.me/authors/ying-liu/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -964,21 +1959,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/publication/voice_assistant_sp/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/tag/iot-security/</loc>
-    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/tag/iot-security/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/tag/iot-security/"
                 />
   </url>
   
@@ -1114,21 +2094,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://xianghang.me/tag/dns/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://xianghang.me/authors/eihal-alowaisheq/</loc>
-    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://xianghang.me/zh/authors/eihal-alowaisheq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://xianghang.me/authors/eihal-alowaisheq/"
                 />
   </url>
   
@@ -1567,6 +2532,10 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/includes/publication-summary/</loc>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1581,6 +2550,14 @@
   </url>
   
   <url>
+    <loc>https://xianghang.me/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/includes/</loc>
+  </url>
+  
+  <url>
     <loc>https://xianghang.me/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1592,6 +2569,10 @@
                 hreflang="en"
                 href="https://xianghang.me/post/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://xianghang.me/research/</loc>
   </url>
   
   <url>

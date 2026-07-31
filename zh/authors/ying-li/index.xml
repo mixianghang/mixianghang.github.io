@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ying Li | 糜相行</title>
+    <title>Ying Li* | 糜相行 (Xianghang Mi)</title>
     <link>https://xianghang.me/zh/authors/ying-li/</link>
       <atom:link href="https://xianghang.me/zh/authors/ying-li/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ying Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <description>Ying Li*</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
-      <title>Ying Li</title>
+      <title>Ying Li*</title>
       <link>https://xianghang.me/zh/authors/ying-li/</link>
     </image>
+    
+    <item>
+      <title>Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter</title>
+      <link>https://xianghang.me/zh/publication/2025-www/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2025-www/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clues in Tweets: Twitter-Guided Discovery and Analysis of SMS Spam</title>

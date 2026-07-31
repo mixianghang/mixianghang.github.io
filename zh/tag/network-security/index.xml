@@ -1,16 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network Security | 糜相行</title>
+    <title>Network Security | 糜相行 (Xianghang Mi)</title>
     <link>https://xianghang.me/zh/tag/network-security/</link>
       <atom:link href="https://xianghang.me/zh/tag/network-security/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Security</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
       <title>Network Security</title>
       <link>https://xianghang.me/zh/tag/network-security/</link>
     </image>
+    
+    <item>
+      <title>Pepper: High-bandwidth and Scalable Anonymous Broadcast with Cryptographic Privacy</title>
+      <link>https://xianghang.me/zh/publication/2026-ifipsec/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2026-ifipsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port Forwarding Services Are Forwarding Security Risks</title>
+      <link>https://xianghang.me/zh/publication/2025-eurosp/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2025-eurosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
+      <link>https://xianghang.me/zh/publication/2024-acsac/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-acsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealthy Peers: Understanding Security and Privacy Risks of Peer-Assisted Video Streaming</title>
+      <link>https://xianghang.me/zh/publication/2024-dsn/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-dsn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shining Light into the Tunnel: Understanding and Classifying Network Traffic of Residential Proxies</title>
+      <link>https://xianghang.me/zh/publication/2024-arxiv-a/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-arxiv-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Storj DCS: Ecosystem, Performance, and Security</title>
+      <link>https://xianghang.me/zh/publication/2023-iwqos/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2023-iwqos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Extensive Study of Residential Proxies in China</title>

@@ -1,16 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xianghang Mi | 糜相行</title>
+    <title>Xianghang Mi† | 糜相行 (Xianghang Mi)</title>
     <link>https://xianghang.me/zh/authors/xianghang-mi/</link>
       <atom:link href="https://xianghang.me/zh/authors/xianghang-mi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xianghang Mi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <description>Xianghang Mi†</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xianghang.me/media/icon.gif</url>
-      <title>Xianghang Mi</title>
+      <title>Xianghang Mi†</title>
       <link>https://xianghang.me/zh/authors/xianghang-mi/</link>
     </image>
+    
+    <item>
+      <title>ICL-EVADER: Zero-Query Black-Box Evasion Attacks on In-Context Learning and Their Defenses</title>
+      <link>https://xianghang.me/zh/publication/2026-www/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2026-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Okara: Detection and Attribution of TLS Man-in-the-Middle Vulnerabilities in Android Apps with Foundation Models</title>
+      <link>https://xianghang.me/zh/publication/2026-acisp/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2026-acisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pepper: High-bandwidth and Scalable Anonymous Broadcast with Cryptographic Privacy</title>
+      <link>https://xianghang.me/zh/publication/2026-ifipsec/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2026-ifipsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Port Forwarding Services Are Forwarding Security Risks</title>
+      <link>https://xianghang.me/zh/publication/2025-eurosp/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2025-eurosp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and Understanding the Promotion of Illicit Goods and Services on Twitter</title>
+      <link>https://xianghang.me/zh/publication/2025-www/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2025-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security Risks</title>
+      <link>https://xianghang.me/zh/publication/2024-acsac/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-acsac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command Hijacking on Voice-Controlled IoT in Amazon Alexa Platform</title>
+      <link>https://xianghang.me/zh/publication/2024-asiaccs/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-asiaccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stealthy Peers: Understanding Security and Privacy Risks of Peer-Assisted Video Streaming</title>
+      <link>https://xianghang.me/zh/publication/2024-dsn/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-dsn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shining Light into the Tunnel: Understanding and Classifying Network Traffic of Residential Proxies</title>
+      <link>https://xianghang.me/zh/publication/2024-arxiv-a/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-arxiv-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflected Search Poisoning for Illicit Promotion</title>
+      <link>https://xianghang.me/zh/publication/2024-arxiv-c/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-arxiv-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning</title>
+      <link>https://xianghang.me/zh/publication/2024-arxiv-e/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-arxiv-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection</title>
+      <link>https://xianghang.me/zh/publication/2024-arxiv-f/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2024-arxiv-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Study of Storj DCS: Ecosystem, Performance, and Security</title>
+      <link>https://xianghang.me/zh/publication/2023-iwqos/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianghang.me/zh/publication/2023-iwqos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Extensive Study of Residential Proxies in China</title>
